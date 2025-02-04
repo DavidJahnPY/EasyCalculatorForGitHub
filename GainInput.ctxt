@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=GainInput
+comment1.params=
+comment1.target=GainInput()
+comment2.params=pmessage
+comment2.target=java.lang.String\ getInputString(java.lang.String)
+comment3.params=pmessage
+comment3.target=double\ getInputDouble(java.lang.String)
+comment4.params=pmessage
+comment4.target=void\ printMessage(java.lang.String)
+numComments=5
